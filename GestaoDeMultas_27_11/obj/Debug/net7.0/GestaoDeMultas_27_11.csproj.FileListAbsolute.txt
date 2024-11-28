@@ -1,0 +1,14 @@
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\bin\Debug\net7.0\GestaoDeMultas_27_11.exe
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\bin\Debug\net7.0\GestaoDeMultas_27_11.deps.json
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\bin\Debug\net7.0\GestaoDeMultas_27_11.runtimeconfig.json
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\bin\Debug\net7.0\GestaoDeMultas_27_11.dll
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\bin\Debug\net7.0\GestaoDeMultas_27_11.pdb
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\obj\Debug\net7.0\GestaoDeMultas_27_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\obj\Debug\net7.0\GestaoDeMultas_27_11.AssemblyInfoInputs.cache
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\obj\Debug\net7.0\GestaoDeMultas_27_11.AssemblyInfo.cs
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\obj\Debug\net7.0\GestaoDeMultas_27_11.csproj.CoreCompileInputs.cache
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\obj\Debug\net7.0\GestaoDeMultas_27_11.dll
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\obj\Debug\net7.0\refint\GestaoDeMultas_27_11.dll
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\obj\Debug\net7.0\GestaoDeMultas_27_11.pdb
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\obj\Debug\net7.0\GestaoDeMultas_27_11.genruntimeconfig.cache
+C:\Users\2023202060019\OneDrive - ifro.edu.br\----3º PERÍODO-----\PROGRAMAÇÃO ORIENTADA A OBJETOS\GestaoDeMultas_27_11\GestaoDeMultas_27_11\obj\Debug\net7.0\ref\GestaoDeMultas_27_11.dll

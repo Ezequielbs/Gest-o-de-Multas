@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\pessoafc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\pessoafc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\vistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\vistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\infracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\infracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\cnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\cnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\pessoapjcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\pessoapjcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\vistoriador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\vistoriador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|c:\\users\\2023202060019\\onedrive - ifro.edu.br\\----3\u00BA per\u00EDodo-----\\programa\u00E7\u00E3o orientada a objetos\\gestaodemultas_27_11\\gestaodemultas_27_11\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DECEC-3108-4081-B342-AD55878FB0FF}|GestaoDeMultas_27_11\\GestaoDeMultas_27_11.csproj|solutionrelative:gestaodemultas_27_11\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaFc.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\PessoaFc.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\PessoaFc.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\PessoaFc.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\PessoaFc.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:54:47.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cnh.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Cnh.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Cnh.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Cnh.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Cnh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:59:55.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Multa.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Multa.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Multa.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Multa.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Multa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:29:26.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Infracao.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Infracao.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Infracao.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Infracao.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Infracao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:29:46.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vistoria.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Vistoria.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Vistoria.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Vistoria.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Vistoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:49:54.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Proprietario.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Proprietario.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Proprietario.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Proprietario.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Proprietario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:28:14.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Cidade.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Cidade.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Cidade.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Cidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:28:41.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Modelo.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Modelo.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Modelo.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Modelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:20:10.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Veiculo.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Veiculo.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Veiculo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:42:07.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pessoapjcs.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Pessoapjcs.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Pessoapjcs.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Pessoapjcs.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Pessoapjcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:55:02.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vistoriador.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Vistoriador.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Vistoriador.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Vistoriador.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Vistoriador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:50:18.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Program.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Program.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Program.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:31:21.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Marca.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Marca.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Marca.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:26:57.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Estado.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Estado.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Estado.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:35:18.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Endereco.cs",
+              "RelativeDocumentMoniker": "GestaoDeMultas_27_11\\Endereco.cs",
+              "ToolTip": "C:\\Users\\2023202060019\\OneDrive - ifro.edu.br\\----3\u00BA PER\u00CDODO-----\\PROGRAMA\u00C7\u00C3O ORIENTADA A OBJETOS\\GestaoDeMultas_27_11\\GestaoDeMultas_27_11\\Endereco.cs",
+              "RelativeToolTip": "GestaoDeMultas_27_11\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:30:24.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
